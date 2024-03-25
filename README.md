@@ -1,3 +1,5 @@
+This is an  Online Education Mobile Application with modules like Home , Course Catalogue, My Learnings, Quiz,
+Payment gateway, Quiz and Chat GPT chatbot developed using React Native, Node JS, DynamoDB ,AWS
 
 # API Design
 
